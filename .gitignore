@@ -2,3 +2,7 @@
 _layouts/.DS_Store
 _site
 js/.DS_Store
+bin
+lib
+project
+target

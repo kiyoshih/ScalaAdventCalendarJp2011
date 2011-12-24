@@ -176,4 +176,4 @@ object PathTransitionSample {
 * [jekyll](https://github.com/mojombo/jekyll/)
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [Google Code Prettify](http://code.google.com/p/google-code-prettify/)
-* [embede-tweets](https://dev.twitter.com/docs/embedded-tweets)
+* [embedded-tweets](https://dev.twitter.com/docs/embedded-tweets)

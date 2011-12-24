@@ -3,11 +3,12 @@ layout: default
 title: Scala Advent Calendar jp 2011
 ---
 
+*Scala Advent Calendar jp 2011の24日目です。
+(@asami224さんの23日目は [こちら](http://modegramming.blogspot.com/2011/12/scalazbean-validation.html))*
+
 <blockquote class="twitter-tweet" lang="ja"><p>Scala Advent Calendar jp 2011 24日目を書きました。 <a href="http://t.co/18VTM9iL" title="http://kiyoshih.github.com/ScalaAdventCalendarJp2011/">kiyoshih.github.com/ScalaAdventCal…</a></p>&mdash; kiyoshi hosodaさん (@kiyoshih) <a href="https://twitter.com/kiyoshih/status/150515160690335744" data-datetime="2011-12-24T09:56:25+00:00">12月 24, 2011</a></blockquote>
 
 ### Hello World ###
-
-*Scala Advent Calendar jp 2011の24日目です。*
 
 * ここでは事前にsbtがインストールされているものとして進めます。
 * MacOS X 10.7、sbt0.11で実行しています。
@@ -84,7 +85,6 @@ object HelloWorldJFX {
 </div>
 
 * JavaFX 2.0では以前のような宣言的なUIの定義が出来なくなっています。
-   * JavaFX Scriptとして別のプロジェクトになっています。
    * ScalaFXを利用するか、自分でラッパーを作る事で宣言的に定義することが可能です。
 
 #### 実行します。 ####

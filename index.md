@@ -7,7 +7,7 @@ title: Scala Advent Calendar jp 2011
 
 ### Hello World ###
 
-*このリポジトリはScala Advent Calendar jp 2011の24日目です。*
+*Scala Advent Calendar jp 2011の24日目です。*
 
 * ここでは事前にsbtがインストールされているものとして進めます。
 * MacOS X 10.7、sbt0.11で実行しています。

@@ -6,3 +6,4 @@ bin
 lib
 project
 target
+.DS_Store

@@ -32,7 +32,7 @@ mkdir -p src/main/scala
 </pre>
 1. HelloWorld.scalaを作成します。
 <pre>
-mport javafx.application.Application
+import javafx.application.Application
 import javafx.stage.Stage
 import javafx.scene.{Group, Scene}
 import javafx.scene.text.{Font, Text}

@@ -3,6 +3,8 @@ layout: default
 title: Scala Advent Calendar jp 2011
 ---
 
+<blockquote class="twitter-tweet" lang="ja"><p>Scala Advent Calendar jp 2011 24日目を書きました。 <a href="http://t.co/18VTM9iL" title="http://kiyoshih.github.com/ScalaAdventCalendarJp2011/">kiyoshih.github.com/ScalaAdventCal…</a></p>&mdash; kiyoshi hosodaさん (@kiyoshih) <a href="https://twitter.com/kiyoshih/status/150515160690335744" data-datetime="2011-12-24T09:56:25+00:00">12月 24, 2011</a></blockquote>
+
 ### Hello World ###
 
 *このリポジトリはScala Advent Calendar jp 2011の24日目です。*
